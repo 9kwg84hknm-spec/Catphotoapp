@@ -1,1 +1,2 @@
-.description { color: purple;}
+.description { color: purple; margin:20px; padding:15px; border:1px solid gray;}
+h1{color:blue; margin:20px; padding:10px; border:2px solid black;}
